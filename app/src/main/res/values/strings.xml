@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SmoothComm</string>
+    <string name="likes"> likes</string>
+    <string name="comments"> comments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nutrient" >Planning a daily menu isn\'t difficult as long as each meal and snack have some protein, fiber, complex carbohydrates and a little bit of fat.
+
+Here\'s what you need to know about each meal.
+
+Eating breakfast will help you start your day with plenty of energy. Don\'t ruin your breakfast with high-fat and high-calorie foods. Choose some protein and fiber for your breakfast, and it\'s a good time to eat some fresh fruit.
+A mid-morning snack is totally optional. If you eat a larger breakfast, you may not feel hungry until lunchtime. However, if you\'re feeling a bit hungry and lunch is still two or three hours away, a light mid-morning snack will tide you over without adding a lot of calories.
+A mid-morning snack is totally optional. If you eat a larger breakfast, you may not feel hungry until lunchtime. However, if you\'re feeling a bit hungry and lunch is still two or three hours away, a light mid-morning snack will tide you over without adding a lot of calories.
+Lunch is often something you eat at work or school, so it\'s a great time to pack a sandwich or leftovers that you can heat and heat. Or, if you buy your lunch, choose a healthy clear soup or fresh veggie salad.
+A mid-afternoon snack is also optional. Keep it low in calories and eat just enough to keep you from feeling too hungry because dinner is just a couple of hours away.
+Dinner is a time when it\'s easy to over-eat, especially if you haven\'t eaten much during the day, so watch your portion sizes. Mentally divide your plate into four quarters. One-quarter is for your meat or protein source, one-quarter is for a starch, and the last two-quarters are for green and colorful vegetables or a green salad.
+A light complex carbohydrate-rich evening snack may help you sleep but avoid heavy, greasy foods or foods high in refined sugars.
+</string>
+    <string name="addcomments">comments added</string>
+    <string name="internet">No Internet</string>
+</resources>

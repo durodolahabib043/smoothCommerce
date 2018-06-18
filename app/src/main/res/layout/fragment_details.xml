@@ -1,0 +1,28 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="challenge.technical.habib.smoothcomm.fragment.details.DetailsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_margin="@dimen/size9"
+            android:layout_height="match_parent"
+            android:text="@string/nutrient" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_margin="@dimen/size9"
+            android:layout_height="match_parent"
+            android:text="@string/nutrient" />
+
+    </LinearLayout>
+
+</ScrollView>
